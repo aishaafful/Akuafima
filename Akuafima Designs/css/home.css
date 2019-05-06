@@ -1,0 +1,66 @@
+nav{
+    border-top: solid rgb(200,0,127);
+    font-size: 20px;
+    font-family: Arial;
+    padding-top: 180px; 
+    position: fixed;
+}
+a{
+  color: #000000;
+  text-decoration: none;
+}
+.blogdiv{
+	     font-weight: 100px;
+	     font-family: Andele Mono;
+}
+.quote{
+       margin-left: 550px;
+       color: rgb(200,0,127);
+       margin-top: 70px;
+       font-size: 20px;
+       font-weight: bold;
+       border-left: solid;
+}
+.Collectionh2{
+	          color: #00ffff;
+	          font-family: Comic Sans MS;
+}
+.Abouttab{
+	      margin-left: 300px;
+	      margin-top: 70px;
+	      background-color: pink;
+	      margin-right: 584px;
+	      font-size: 30px;
+}
+.BGimage{
+	     background-image: url(../images/background2.jpg);
+}
+form{
+	background-color: pink;
+	border: solid black;
+	border-width: 20px;
+
+}
+.input{
+	   margin-left: 455px;
+}
+.submit{
+	background-color: white;
+	border-width: 10px;
+}
+.Message{
+	     width: 400px;
+	     height: 300px;
+}
+.Email{
+	width: 400px;
+}
+.name{
+	width: 400px;
+}
+.collection{
+	        margin-left: 300px;
+}
+.IMG{
+	margin-top: 100px;
+}
